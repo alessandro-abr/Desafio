@@ -15,7 +15,7 @@ namespace ChallengeAPI.Entity
         {
             this.Configuration.LazyLoadingEnabled = false;
             modelBuilder.Configurations.Add(new DirectoryMap());
-            modelBuilder.Configurations.Add(new GeometryMap());
+            modelBuilder.Configurations.Add(new GeometryMap());        
         }
     }
 }

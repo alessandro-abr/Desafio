@@ -9,7 +9,7 @@ namespace ChallengeAPI.Entity
         public static string Schema { get { return System.Configuration.ConfigurationManager.AppSettings["schema"]; } }
         public static string CC(string name)
         {
-            var conn = "Data Source=RP-PC01; Initial Catalog=ChallengeDB2; integrated security=true User ID=desenvteste; Password={0}";
+            var conn = "Data Source=RP-PC01; Initial Catalog=ChallengeDB; User ID=desenvteste; Password={0}";
             var pass = "master123";
             return string.Format(conn, pass);
         }        

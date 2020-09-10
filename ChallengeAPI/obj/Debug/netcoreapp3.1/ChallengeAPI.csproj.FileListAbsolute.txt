@@ -71,3 +71,5 @@ C:\ChallengeAPI\ChallengeAPI\obj\Debug\netcoreapp3.1\ChallengeAPI.dll
 C:\ChallengeAPI\ChallengeAPI\obj\Debug\netcoreapp3.1\ChallengeAPI.pdb
 C:\ChallengeAPI\ChallengeAPI\obj\Debug\netcoreapp3.1\ChallengeAPI.genruntimeconfig.cache
 C:\ChallengeAPI\ChallengeAPI\bin\Debug\netcoreapp3.1\libman.json
+C:\ChallengeAPI\ChallengeAPI\bin\Debug\netcoreapp3.1\web.config
+C:\ChallengeAPI\ChallengeAPI\bin\Debug\netcoreapp3.1\Connections.config

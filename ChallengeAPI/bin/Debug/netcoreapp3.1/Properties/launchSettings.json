@@ -2,6 +2,7 @@
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
+   
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:5000", // Use port 5000
@@ -14,7 +15,9 @@
       "launchBrowser": false, // Keep browser from running
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+
+
     },
     "WebAPI": {
       "commandName": "Project",
@@ -22,7 +25,8 @@
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+    
     }
   }
 }
